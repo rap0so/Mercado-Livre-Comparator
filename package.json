@@ -1,0 +1,29 @@
+{
+  "name": "mercado-livre-comparator",
+  "version": "0.0.1",
+  "description": "Simple project to compare prices due received json and return details on csv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rap0so/Mercado-Livre-Comparator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rap0so/Mercado-Livre-Comparator/issues"
+  },
+  "homepage": "https://github.com/rap0so/Mercado-Livre-Comparator#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "puppeteer": "^3.1.0"
+  },
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
