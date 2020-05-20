@@ -38,8 +38,8 @@ yarn run test
 
 ## TODO
 
-[ ] - Fragment the code over files
-[ ] - Unit test will be good
+- [ ] Fragment the code over files   
+- [ ] Unit test will be good
 
 ## Author
 
